@@ -16,11 +16,12 @@ Aplicação web interativa desenvolvida em **Streamlit** para exploração estat
 
 ```text
 .
-├── app.py                   # Script principal da aplicação Streamlit
-├── requirements.txt         # Dependências de pacotes Python
-├── dados/
-│   └── dataset_uci.csv      # Base de dados (iris.csv)
-└── README.md                # Documentação do projeto
+├── app.py              # Script principal da aplicação Streamlit
+├── requirements.txt    # Dependências de pacotes Python
+├── iris/
+│   └── iris.csv        # Base de dados (UCI)
+├── capturas_tela/      # Prints das telas
+└── README.md           # Documentação do projeto
 ```
 
 # Capturas de tela
