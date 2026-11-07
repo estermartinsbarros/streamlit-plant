@@ -23,6 +23,31 @@ Aplicação web interativa desenvolvida em **Streamlit** para exploração estat
 └── README.md                # Documentação do projeto
 ```
 
+# Capturas de tela
+ 
+### Aba 1: Dicionário e Amostra
+![Aba 1](capturas_tela/aba1_dicionario.png)
+ 
+### Aba 2: Univariada e Outliers
+Variável com assimetria entre média e mediana (Comprimento da Pétala):
+ 
+![Aba 2, assimetria](capturas_tela/aba2_assimetria.png)
+ 
+Variável com outliers (Largura da Sépala):
+ 
+![Aba 2, outliers](capturas_tela/aba2_outliers.png)
+ 
+### Aba 3: Bivariada e Correlação
+![Aba 3](capturas_tela/aba3_correlacao1.png)
+![Aba 3](capturas_tela/aba3_correlacao2.png)
+![Aba 3](capturas_tela/aba3_correlacao3.png)
+ 
+### Aba 4: Parecer Analítico
+![Aba 4](capturas_tela/aba4_parecer.png)
+
+
+
+
 ---
 
 ## 🚀 Como Executar o Projeto
